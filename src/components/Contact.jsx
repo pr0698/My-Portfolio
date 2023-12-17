@@ -1,8 +1,9 @@
 import React from 'react'
-
+//import ComputersCanvas from './ComputerCanvas'
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+    <h1>Heloo nlnlnlnlandlandlandlandlna</h1></div>
   )
 }
 
