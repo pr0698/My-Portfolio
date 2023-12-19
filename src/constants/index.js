@@ -117,7 +117,7 @@ import {
   const experiences = [
     {
       title: "Backend Developer",
-      company_name: "Wipro Limited",
+      company_name: "Wipro Limited(Telenor project)",
       icon: shopify,
       iconBg: "#383E56",
       date: "Nov 2021 - Oct 2022",
@@ -131,7 +131,7 @@ import {
     },
    {
       title: "React Developer",
-      company_name: "Wipro Ltd.",
+      company_name: "Wipro Ltd.(NSE project)",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Nov 2022 - Feb 2023",
@@ -145,7 +145,7 @@ import {
     
     {
       title: "Web Developer",
-      company_name: "Wipro Limited(Telnor Myanmar)",
+      company_name: "Wipro Limited(Telnor project)",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "March 2023 - Present",
@@ -161,27 +161,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Pratham proved me wrong.",
+        "Exceptionally skilled and dedicated, my Java backend developer friend consistently delivers robust and efficient solutions, showcasing a profound understanding of backend technologies and a commitment to excellence.",
       name: "Shubham Jain",
       designation: "SDE-2",
       company: "Microsoft",
-      image: "https://freeimage.host/i/whatsapp-image-2023-12-19-at-173147-898e2757.JAzOs2t",
+      image: "https://iili.io/JAzOs2t.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Pratham does.",
+        "With an impressive flair for React development, my friend excels in crafting seamless and dynamic user interfaces, demonstrating both expertise and passion for creating impactful web applications",
       name: "Piyush K Pandey",
       designation: "Principal Engineer",
       company: "IVP",
-      image: "https://freeimage.host/i/whatsapp-image-2023-12-18-at-224518-707fa93a.JAzOhBV",
+      image: "https://iili.io/JAzOhBV.jpg",
     },
     {
       testimonial:
-        "After Pratham optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "His commitment to staying current with the latest React trends and his knack for turning complex requirements into elegant, user-friendly interfaces make him an invaluable asset to any development team",
       name: "Aman Prasad",
       designation: "Product Manager",
       company: "Zepto",
-      image: "https://freeimage.host/i/whatsapp-image-2023-12-18-at-224307-c673971b.JAzOvpa",
+      image: "https://iili.io/JAzOvpa.jpg",
     },
   ];
   
