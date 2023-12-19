@@ -115,25 +115,12 @@ import {
   ];
   
   const experiences = [
-   {
-      title: "Backend Developer",
-      company_name: "Wipro Ltd.",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using Java and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
     {
-      title: "Web Developer",
-      company_name: "Wipro Limited(NSE)",
+      title: "Backend Developer",
+      company_name: "Wipro Limited",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Nov 2022 - Jan 2023",
+      date: "Nov 2021 - Oct 2022",
       points: [
         "Developing scalable web applications using Java and Spring Boot for optimal performance and maintainability.",
         "Collaborating with cross-functional teams to deliver user-friendly solutions with responsive design and cross-browser compatibility.",
@@ -142,12 +129,26 @@ import {
         "Integrating third-party APIs and contributing to documentation for efficient, modular, and feature-rich web applications.",
       ]
     },
+   {
+      title: "React Developer",
+      company_name: "Wipro Ltd.",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "Nov 2022 - Feb 2023",
+      points: [
+        "Developing and maintaining web applications using React and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    
     {
       title: "Web Developer",
       company_name: "Wipro Limited(Telnor Myanmar)",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "March 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -164,7 +165,7 @@ import {
       name: "Shubham Jain",
       designation: "SDE-2",
       company: "Microsoft",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "https://freeimage.host/i/whatsapp-image-2023-12-19-at-173147-898e2757.JAzOs2t",
     },
     {
       testimonial:
@@ -172,7 +173,7 @@ import {
       name: "Piyush K Pandey",
       designation: "Principal Engineer",
       company: "IVP",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: "https://freeimage.host/i/whatsapp-image-2023-12-18-at-224518-707fa93a.JAzOhBV",
     },
     {
       testimonial:
@@ -180,7 +181,7 @@ import {
       name: "Aman Prasad",
       designation: "Product Manager",
       company: "Zepto",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://freeimage.host/i/whatsapp-image-2023-12-18-at-224307-c673971b.JAzOvpa",
     },
   ];
   
