@@ -1,5 +1,4 @@
 import {
-    mobile,
     backend,
     creator,
     web,
@@ -7,6 +6,7 @@ import {
     typescript,
     html,
     css,
+    meta,
     reactjs,
     redux,
     tailwind,
@@ -15,10 +15,7 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
     tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
@@ -45,16 +42,16 @@ import {
       title: "Web Developer",
       icon: web,
     },
+    // {
+    //   title: "React Native Developer",
+    //   icon: mobile,
+    // },
     {
-      title: "React Native Developer",
-      icon: mobile,
-    },
-    {
-      title: "Backend Developer",
+      title: "Data Structure and Algorithm",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "SQL",
       icon: creator,
     },
   ];
@@ -115,26 +112,26 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Backend Developer",
-      company_name: "Wipro Limited(Telenor project)",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Nov 2021 - Oct 2022",
-      points: [
-        "Developing scalable web applications using Java and Spring Boot for optimal performance and maintainability.",
-        "Collaborating with cross-functional teams to deliver user-friendly solutions with responsive design and cross-browser compatibility.",
-        "Conducting code reviews and offering constructive feedback to ensure high-quality Java and Spring Boot development.",
-        "Implementing security measures and staying abreast of the latest advancements in Java and Spring Boot technologies.",
-        "Integrating third-party APIs and contributing to documentation for efficient, modular, and feature-rich web applications.",
-      ]
-    },
+    // {
+    //   title: "Backend Developer",
+    //   company_name: "Wipro Limited(Telenor project)",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "Nov 2021 - Oct 2022",
+    //   points: [
+    //     "Developing scalable web applications using Java and Spring Boot for optimal performance and maintainability.",
+    //     "Collaborating with cross-functional teams to deliver user-friendly solutions with responsive design and cross-browser compatibility.",
+    //     "Conducting code reviews and offering constructive feedback to ensure high-quality Java and Spring Boot development.",
+    //     "Implementing security measures and staying abreast of the latest advancements in Java and Spring Boot technologies.",
+    //     "Integrating third-party APIs and contributing to documentation for efficient, modular, and feature-rich web applications.",
+    //   ]
+    // },
    {
-      title: "React Developer",
+      title: "Web Developer",
       company_name: "Wipro Ltd.(NSE project)",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Nov 2022 - Feb 2023",
+      date: "Jan 2022 - Feb 2023",
       points: [
         "Developing and maintaining web applications using React and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -187,9 +184,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "ShareMe",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        " ShareMe is an image-sharing app . Allow users to share their images online and also add comments,pins, and downloads.",
       tags: [
         {
           name: "react",
@@ -205,12 +202,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://snapme-pratham.netlify.app/",
     },
     {
-      name: "Job IT",
+      name: "CryptoVerse",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Developed a React and Redux Toolkit based web application leveraging Rapid API, offering real-time cryptocurrency details, prices, news, and exchange information",
       tags: [
         {
           name: "react",
@@ -221,24 +218,24 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "AntDesign",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://cryptoverse-app-pr0698.netlify.app/",
     },
     {
-      name: "Trip Guide",
+      name: "Netflix-GPT",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Designed and built a feature-rich platform mirroring the functionality of a popular streaming service",
       tags: [
         {
-          name: "nextjs",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Tailwind",
           color: "green-text-gradient",
         },
         {
@@ -247,7 +244,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/pr0698/netflix-gpt",
     },
   ];
   
